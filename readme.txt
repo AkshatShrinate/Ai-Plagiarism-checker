@@ -2,6 +2,9 @@ AI Plagiarism Checker
 This project is an AI-powered tool designed to detect plagiarism by calculating the cosine similarity between text inputs. It processes large text datasets, vectorizes the content using NLP techniques, and identifies the degree of similarity between different pieces of text. Built using Python, scikit-learn, and other data processing libraries, this tool helps in evaluating potential text re-use in academic, professional, or creative writing. The project includes dataset preprocessing, similarity calculation, and model evaluation workflows.
 
 Note: Avoid the Invalid Notebook Error. The file runs just fine 
+Accuracy score:
+Before Hyperparameter tuning: 75%
+After Hyperparameter tuning: 78.5%
 
 How to Use
 1) Clone the repository
